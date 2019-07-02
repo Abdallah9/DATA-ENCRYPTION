@@ -1,4 +1,4 @@
 # DATA-ENCRYPTION
 SCHOOL PROJECT
 
-GUI and Non GUI Java and Python data encryption project
+GUI and Non GUI Java and Python data encryption projects
